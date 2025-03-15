@@ -1,2 +1,2 @@
 <?php
-echo 'GITHUBBBB!';
+echo 'GITHUB!';
